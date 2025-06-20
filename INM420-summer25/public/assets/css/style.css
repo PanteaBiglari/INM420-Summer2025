@@ -609,3 +609,19 @@ Totally Didn't Just Steal This
   text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
   transition: all 0.3s ease-in-out;
 }
+
+
+/* Pantea Biglari CSS */
+.pbiglari{
+    font-family: 'Georgia', serif;
+    font-size: 48px;
+    font-weight: bold;
+    color: #4A90E2;
+    text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.2);
+    letter-spacing: 2px;
+    background: linear-gradient(90deg, #4A90E2, #50E3C2);
+    -webkit-text-fill-color: transparent;
+    animation: glow 2s infinite alternate;
+    text-align: center;
+    margin-top: 50px;
+}
